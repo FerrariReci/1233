@@ -1,2 +1,2 @@
 while 1:
-    print('1000 - 7')
+    print('print("1000 - 7")')
